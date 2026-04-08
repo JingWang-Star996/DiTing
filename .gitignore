@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Config (keep example)
+*.local.json
+!*.example.json
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Test coverage
+coverage/
+
+# Sensitive data
+*.key
+*.pem
+.env
+
+# Build output
+dist/
+build/
