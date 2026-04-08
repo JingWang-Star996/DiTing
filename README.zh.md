@@ -1,31 +1,29 @@
 # 谛听.skill
 
-> 「问题不是敌人，遗忘才是。」
+> "我们无法阻止问题发生，但可以让问题变得有价值。"
 
-License: [MIT](LICENSE) · Claude Code: [Skill](https://github.com/JingWang-Star996/DiTing) · DiTing: [v1.0.0](https://github.com/JingWang-Star996/DiTing/releases/tag/v1.0.0)
-
----
-
-谛听帮你**蒸馏整个团队的质量文化**，让戴明、朱兰、克劳士比都给你打工。
-
-[同事.skill](https://github.com/skills.sh/colleague) 证明了蒸馏一个人是可行的。
-[女娲.skill](https://github.com/skills.sh/nuwa) 证明了蒸馏名人是可行的。
-**谛听.skill 证明了蒸馏整个团队的质量文化是可行的。**
-
-那何必只蒸馏一个人？去蒸馏戴明、朱兰、克劳士比。
-让千年的质量智慧，为你的团队守护质量。
-
-只需一次复盘，谛听自动完成**分析、提炼、验证、沉淀**全流程。
+License: [MIT](LICENSE) · Python: [3.9+](https://www.python.org/downloads/) · Claude Code: [Skill](https://github.com/JingWang-Star996/DiTing) · AgentSkills: [Standard](https://github.com/skills.sh)
 
 ---
 
-[看效果](#-效果展示) · [安装](#-快速开始) · [核心功能](#-核心功能) · [工作原理](#-核心理念)
+你的质量专家跳槽了，留下三页文档想概括三年的经验？
+你的复盘能手离职了，带走所有的问题分析和改进策略？
+你的流程达人转岗了，熟悉的检查清单一夜之间归零？
+你的审计大神毕业了，带走了所有的质量标准和审计方法？
+你的知识管家退休了，沉淀的最佳实践再也无人维护？
+
+**将痛苦的问题化为宝贵的经验，将个人的知识化为团队的文化。**
 
 ---
 
-其他语言 / Other Languages:
+提供团队的原材料（飞书消息、钉钉文档、邮件、截图）加上你的主观描述，
+生成一个真正能替团队管理质量的 AI Skill。
 
-[English](README.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md)
+用戴明的标准做检测，用朱兰的方法做复盘，知道什么时候该预警。
+
+---
+
+[数据来源](#) · [安装](#-快速开始) · [使用](#-快速开始) · [效果示例](#-效果展示) · [详细安装说明](#) · [English](README.md)
 
 ---
 
@@ -47,15 +45,16 @@ License: [MIT](LICENSE) · Claude Code: [Skill](https://github.com/JingWang-Star
 
 ## 🎯 谛听能干什么？
 
-谛听系统不是另一个工具，而是团队的**质量文化操作系统**。
+谛听帮你**蒸馏整个团队的质量文化**，让戴明、朱兰、克劳士比都给你打工。
 
-| 模块 | 解决什么 | 交付什么 |
-|------|---------|---------|
-| **谛听·识异** | 问题发现太晚 | 实时检测 + 自动告警 |
-| **谛听·复盘** | 复盘流于形式 | 根因分析 + 改进行动 |
-| **谛听·图鉴** | 经验无法传承 | 问题卡片 + 检查清单 |
+[同事.skill](https://github.com/skills.sh/colleague) 证明了蒸馏一个人是可行的。
+[女娲.skill](https://github.com/skills.sh/nuwa) 证明了蒸馏名人是可行的。
+**谛听.skill 证明了蒸馏整个团队的质量文化是可行的。**
 
-**让每一次跌倒，都成为台阶。**
+那何必只蒸馏一个人？去蒸馏戴明、朱兰、克劳士比。
+让千年的质量智慧，为你的团队守护质量。
+
+只需一次复盘，谛听自动完成**分析、提炼、验证、沉淀**全流程。
 
 ---
 
@@ -191,7 +190,6 @@ projects/diting/
 
 - **GitHub 仓库**: https://github.com/JingWang-Star996/DiTing
 - **Release v1.0.0**: https://github.com/JingWang-Star996/DiTing/releases/tag/v1.0.0
-- **飞书文档**: https://www.feishu.cn/docx/TM5WdougaoBIPnx7sq1c4rNZn0e
 
 ---
 
